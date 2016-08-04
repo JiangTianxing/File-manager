@@ -1,0 +1,11 @@
+<include file="Index/header"/>
+<body>
+<div class="container">
+    <volist name="dirs['file']" id="file">
+        {$file}
+    </volist>
+    <volist name="dirs['dir']" id="dir">
+        <a href="index.php?a=index&path={$dir|getChildPath=$currentpath,###}">{$dir|iconv='gb2312','utf-8',###}<br></a>
+    </volist>
+</div>
+<include file="Index/footer" />

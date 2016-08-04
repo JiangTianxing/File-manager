@@ -1,0 +1,2016 @@
+[ 2016-08-04T00:19:27+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001172s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000124s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000339s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009220s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009356s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000736s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000777s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000894s ]
+
+[ 2016-08-04T00:31:47+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001270s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 6 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000189s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006971s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007165s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000723s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000741s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000856s ]
+
+[ 2016-08-04T00:32:08+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001770s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001471s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 6 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000259s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017498s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017639s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000787s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000789s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000910s ]
+
+[ 2016-08-04T00:34:08+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000834s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000883s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 6 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000239s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008612s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008838s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000824s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000724s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000864s ]
+
+[ 2016-08-04T00:34:40+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002151s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002321s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 6 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000196s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008726s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008900s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000871s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000769s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000897s ]
+
+[ 2016-08-04T00:45:09+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001076s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 11 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000155s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000540s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018635s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018969s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001190s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001438s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001710s ]
+
+[ 2016-08-04T00:45:17+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000856s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 11 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010982s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011168s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000831s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000890s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001029s ]
+
+[ 2016-08-04T00:45:19+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000839s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000993s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 11 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000225s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010015s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010220s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000713s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000855s ]
+
+[ 2016-08-04T00:45:20+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001042s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 11 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000185s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008756s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008898s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000771s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000972s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001112s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001264s ]
+
+[ 2016-08-04T00:45:21+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000931s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 11 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000318s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011137s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011300s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000652s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000726s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000875s ]
+
+[ 2016-08-04T00:45:58+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001203s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000189s ]
+NOTIC: [8] Undefined variable: dirs H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010479s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010621s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000629s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000757s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000789s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000905s ]
+
+[ 2016-08-04T00:46:00+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001622s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001682s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+NOTIC: [8] Undefined variable: dirs H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011078s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011264s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000753s ]
+
+[ 2016-08-04T00:46:18+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000938s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000200s ]
+NOTIC: [8] Undefined variable: dirs H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007936s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008074s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000554s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000710s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000842s ]
+
+[ 2016-08-04T00:46:33+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+NOTIC: [8] Undefined variable: dirs H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010077s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010242s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000660s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000629s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000745s ]
+
+[ 2016-08-04T00:47:18+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000938s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000242s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009388s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009534s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000622s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000758s ]
+
+[ 2016-08-04T00:47:20+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001899s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010680s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010837s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000741s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000974s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001118s ]
+
+[ 2016-08-04T00:47:21+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001371s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000944s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000226s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011020s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011207s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000614s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000773s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001019s ]
+
+[ 2016-08-04T00:47:47+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000881s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001013s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000198s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011459s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011592s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000720s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000796s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000913s ]
+
+[ 2016-08-04T00:48:06+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001159s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001385s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000214s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010845s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000821s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000831s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000968s ]
+
+[ 2016-08-04T00:48:08+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000207s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009136s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009292s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000804s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001552s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001723s ]
+
+[ 2016-08-04T00:48:38+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000862s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000202s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010901s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011043s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000654s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000601s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000737s ]
+
+[ 2016-08-04T00:48:58+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000917s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001076s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000202s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010383s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010697s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001076s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001459s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001136s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001567s ]
+
+[ 2016-08-04T00:51:05+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001128s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000240s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019907s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020092s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000918s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000839s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000961s ]
+
+[ 2016-08-04T00:54:41+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000866s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000991s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000198s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012620s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012772s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000737s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000766s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000891s ]
+
+[ 2016-08-04T00:54:43+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000953s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000189s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011116s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011256s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000732s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000845s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000754s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000870s ]
+
+[ 2016-08-04T00:54:45+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000885s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012258s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012392s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000817s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000652s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000769s ]
+
+[ 2016-08-04T00:54:46+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000921s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000189s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010595s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010717s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000875s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000626s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000741s ]
+
+[ 2016-08-04T00:54:48+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000864s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000232s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012982s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013132s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000806s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000949s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000893s ]
+
+[ 2016-08-04T00:54:49+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000861s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000241s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012303s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012458s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000814s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000955s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000738s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000881s ]
+
+[ 2016-08-04T00:54:49+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000849s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000189s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011241s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011389s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000677s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000792s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000598s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000715s ]
+
+[ 2016-08-04T00:55:23+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000201s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010776s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010900s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000822s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000639s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000771s ]
+
+[ 2016-08-04T00:55:24+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000961s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000111s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012293s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012444s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000800s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000940s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000718s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000861s ]
+
+[ 2016-08-04T00:55:24+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001396s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011492s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011646s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000784s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000606s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000735s ]
+
+[ 2016-08-04T00:55:27+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000909s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000124s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000309s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016608s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016797s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000950s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001092s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000801s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000948s ]
+
+[ 2016-08-04T00:55:28+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001151s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000199s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011857s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011990s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000733s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000751s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000868s ]
+
+[ 2016-08-04T00:55:29+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000844s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000241s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012971s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013122s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000666s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000739s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000890s ]
+
+[ 2016-08-04T00:55:30+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000837s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000203s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011370s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011507s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000637s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000769s ]
+
+[ 2016-08-04T00:56:17+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000873s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000395s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012643s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012795s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000668s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000796s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000936s ]
+
+[ 2016-08-04T00:56:18+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=.%2FUpload%2FLibrary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000851s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.005525s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.005695s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018348s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018485s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000843s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000726s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000858s ]
+
+[ 2016-08-04T00:56:20+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=.%2FUpload%2FLibrary%2FThink
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000974s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010826s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010977s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000756s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000891s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000602s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000719s ]
+
+[ 2016-08-04T00:56:21+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=.%2FUpload%2FLibrary%2FThink%2FCache
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000852s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012091s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012229s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000800s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000594s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000710s ]
+
+[ 2016-08-04T00:56:25+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=.%2FUpload%2FLibrary%2FOrg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010544s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010682s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000816s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000599s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000714s ]
+
+[ 2016-08-04T00:56:26+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=.%2FUpload%2FLibrary%2FOrg%2FUtil
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000235s ]
+NOTIC: [8] Undefined index: dir H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011679s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011873s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000882s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000765s ]
+
+[ 2016-08-04T00:56:55+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000923s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001062s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000207s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011140s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011268s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000880s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000761s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000878s ]
+
+[ 2016-08-04T00:57:01+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=.%2FUpload%2FLibrary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000854s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011063s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000816s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000598s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000715s ]
+
+[ 2016-08-04T00:57:03+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=.%2FUpload%2FLibrary%2FOrg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000845s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000226s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011105s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011242s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000805s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000745s ]
+
+[ 2016-08-04T00:57:04+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=.%2FUpload%2FLibrary%2FOrg%2FUtil
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000869s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 12 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+NOTIC: [8] Undefined index: dir H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010934s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011127s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000762s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000609s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000723s ]
+
+[ 2016-08-04T01:14:04+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=.%2FUpload%2FLibrary%2FOrg%2FUtil
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000965s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 14 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+NOTIC: [8] Undefined index: dir H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012329s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012454s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000857s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000747s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000862s ]
+
+[ 2016-08-04T01:16:04+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=.%2FUpload%2FLibrary%2FOrg%2FUtil
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000947s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000920s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001061s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 14 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000234s ]
+NOTIC: [8] Undefined index: dir H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012057s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012184s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000755s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000804s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000918s ]
+
+[ 2016-08-04T01:16:06+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=.%2FUpload%2FLibrary%2FOrg%2FUtil
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000970s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 14 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000215s ]
+NOTIC: [8] Undefined index: dir H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011908s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012046s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000730s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000899s ]
+
+[ 2016-08-04T01:16:14+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=.%2FUpload%2FLibrary%2FOrg%2FUtil
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 14 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000315s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000798s ]
+NOTIC: [8] Undefined index: dir H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011263s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011386s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000902s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001085s ]
+
+[ 2016-08-04T01:24:11+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001534s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001101s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001299s ]
+
+[ 2016-08-04T01:24:26+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001196s ]
+NOTIC: [8] Undefined variable: urlpath H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001281s ]
+
+[ 2016-08-04T01:24:45+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000882s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001019s ]
+NOTIC: [8] Undefined variable: urlpath H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001580s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001894s ]
+
+[ 2016-08-04T01:24:45+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001042s ]
+NOTIC: [8] Undefined variable: urlpath H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001578s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001849s ]
+
+[ 2016-08-04T01:24:45+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=.%2FUpload%2FLibrary%2FOrg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000802s ]
+NOTIC: [8] Undefined variable: urlpath H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002051s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002350s ]
+
+[ 2016-08-04T01:24:45+08:00 ] 127.0.0.1 /file-manager-practice/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001128s ]
+NOTIC: [8] Undefined variable: urlpath H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000769s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000892s ]
+
+[ 2016-08-04T01:24:47+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000867s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000821s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001002s ]
+
+[ 2016-08-04T01:25:04+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000891s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001052s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001116s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001334s ]
+
+[ 2016-08-04T01:25:14+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001157s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 15 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000238s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014585s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014774s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000784s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000732s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000874s ]
+
+[ 2016-08-04T01:25:15+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2FLibrary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002158s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 15 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000161s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000471s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016660s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016943s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000818s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000982s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000880s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001051s ]
+
+[ 2016-08-04T01:25:19+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2FLibrary%2FVendor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000883s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 15 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000213s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010574s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010713s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000603s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000619s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000735s ]
+
+[ 2016-08-04T01:25:20+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2FLibrary%2FVendor%2FEaseTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000890s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 15 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000251s ]
+NOTIC: [8] Undefined index: dir H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011390s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011536s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000657s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000699s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000842s ]
+
+[ 2016-08-04T01:25:46+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2FLibrary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000950s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 14 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000200s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010786s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010919s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000603s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000595s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000711s ]
+
+[ 2016-08-04T01:25:48+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2F%BB%B9%BC%C7%B5%C3%B7%D6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000856s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 14 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000336s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011653s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011788s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000606s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000720s ]
+
+[ 2016-08-04T01:25:51+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2F%BB%B9%BC%C7%B5%C3%B7%D6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 14 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000234s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012727s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012922s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000802s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000869s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001050s ]
+
+[ 2016-08-04T01:25:52+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2F%BB%B9%BC%C7%B5%C3%B7%D6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000850s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 14 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000135s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000399s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017408s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017622s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000729s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000862s ]
+
+[ 2016-08-04T01:25:52+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2FLibrary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000864s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 14 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000262s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012263s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012414s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000666s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000818s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000751s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000895s ]
+
+[ 2016-08-04T01:25:53+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2FLibrary%2FBehavior
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000868s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 14 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000218s ]
+NOTIC: [8] Undefined index: dir H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010244s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010367s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000641s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000607s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000725s ]
+
+[ 2016-08-04T01:26:42+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2FLibrary%2FVendor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000830s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 14 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000201s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010981s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011121s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000610s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000602s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000719s ]
+
+[ 2016-08-04T01:26:43+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2FLibrary%2FVendor%2FTemplateLite
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000848s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 14 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000199s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010168s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010331s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000661s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000795s ]
+
+[ 2016-08-04T01:26:45+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2FLibrary%2FVendor%2FTemplateLite%2Finternal
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000849s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 14 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000217s ]
+NOTIC: [8] Undefined index: dir H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009992s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010129s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000661s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000789s ]
+
+[ 2016-08-04T01:26:49+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2FLibrary%2FVendor%2FSmarty
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 14 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010297s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010442s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000774s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000897s ]
+
+[ 2016-08-04T01:27:03+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2FLibrary%2FVendor%2FSmarty
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000852s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 15 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000197s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010747s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010897s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000576s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000616s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000734s ]
+
+[ 2016-08-04T01:27:38+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2FLibrary%2FVendor%2FSmarty
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000994s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001155s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 15 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012679s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012825s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000905s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000786s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000903s ]
+
+[ 2016-08-04T01:28:28+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2FLibrary%2FVendor%2FSmarty
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000994s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001133s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 15 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010386s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010521s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000706s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000762s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000880s ]
+
+[ 2016-08-04T01:28:35+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2FLibrary%2FVendor%2FSmarty
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000964s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 15 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000234s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012398s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012562s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001357s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001492s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000695s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000815s ]
+
+[ 2016-08-04T01:29:26+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2FLibrary%2FVendor%2FSmarty
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000935s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 15 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000227s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011114s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011256s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000733s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000883s ]
+
+[ 2016-08-04T01:29:40+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2FLibrary%2FVendor%2FSmarty%2Fplugins
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001967s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 15 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000185s ]
+NOTIC: [8] Undefined index: dir H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010183s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010304s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000711s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000741s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000856s ]
+
+[ 2016-08-04T01:29:57+08:00 ] 127.0.0.1 /file-manager-practice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000710s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 15 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000185s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009352s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009474s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000842s ]
+
+[ 2016-08-04T01:30:00+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2Fimages
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000843s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 15 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000229s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+NOTIC: [8] Undefined index: dir H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011975s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012123s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000670s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000831s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2016-08-04T01:30:33+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2Fimages
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000856s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 16 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000213s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+NOTIC: [8] Undefined index: dir H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011590s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011715s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000548s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000678s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000793s ]
+
+[ 2016-08-04T01:31:46+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2Fimages
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000981s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001133s ]
+NOTIC: [8] Undefined variable: dirs H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php 第 15 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 16 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+NOTIC: [8] Undefined index: dir H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011722s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011842s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000762s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000751s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000868s ]
+
+[ 2016-08-04T01:32:28+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2FLibrary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000868s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001165s ]
+NOTIC: [8] Undefined variable: dirs H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php 第 15 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 16 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011938s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012078s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000790s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000755s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000871s ]
+
+[ 2016-08-04T01:32:39+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2FLibrary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001139s ]
+NOTIC: [8] Undefined variable: dirs H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php 第 15 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 16 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000193s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011637s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011779s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000782s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000910s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000753s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000887s ]
+
+[ 2016-08-04T01:32:41+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2FLibrary%2FBehavior
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001185s ]
+NOTIC: [8] Undefined variable: dirs H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php 第 15 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 16 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000210s ]
+NOTIC: [8] Undefined index: dir H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012508s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012654s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000704s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000919s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000947s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001139s ]
+
+[ 2016-08-04T11:59:37+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2Fimages
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 14 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000206s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+NOTIC: [8] Undefined index: dir H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012148s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012287s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000588s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000717s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000746s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000878s ]
+
+[ 2016-08-04T11:59:39+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2F%BB%B9%BC%C7%B5%C3%B7%D6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000881s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001008s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 14 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000219s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011477s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000822s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000830s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000950s ]
+
+[ 2016-08-04T11:59:40+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2F%BB%B9%BC%C7%B5%C3%B7%D6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 14 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009535s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009692s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000886s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001249s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001394s ]
+
+[ 2016-08-04T11:59:41+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2FLibrary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000713s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 14 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010660s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000608s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000739s ]
+
+[ 2016-08-04T11:59:42+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2FLibrary%2FBehavior
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000921s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 14 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000211s ]
+NOTIC: [8] Undefined index: dir H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012231s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012373s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000651s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000720s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000854s ]
+
+[ 2016-08-04T11:59:45+08:00 ] 127.0.0.1 /file-manager-practice/index.php?a=index&path=%2FLibrary%2FOrg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in H:\wamp\www\file-manager-practice\Application\Home\Controller\IndexController.class.php on line 14 and defined H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content H:\wamp\www\file-manager-practice\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Undefined index: file H:\wamp\www\file-manager-practice\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 17 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010811s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010957s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000566s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000648s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000765s ]
+
