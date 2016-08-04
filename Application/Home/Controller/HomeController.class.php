@@ -16,8 +16,15 @@ class HomeController extends Controller {
     public function __construct()
     {
         parent::__construct();
+        $this->check();
         $this->path = $_REQUEST['path'] ? urldecode($_REQUEST['path']) : '';
         $this->filepath = C('DATA_DIR').$this->path;
         $this->type = is_dir($this->filepath) ? 1 : 0;
+    }
+
+    private function check() {
+        if (!file_exists(C('DATA_DIR'))) {
+            mkdir(C('DATA_DIR'));
+        }
     }
 }

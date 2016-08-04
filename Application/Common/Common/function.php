@@ -75,6 +75,7 @@ function deleteDir($path) {
         }
     }
     closedir($handle);
+    rmdir($path);
 }
 
 function downloadFile($filepath) {
