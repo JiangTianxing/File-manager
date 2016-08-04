@@ -1,8 +1,13 @@
 <include file="Index/header"/>
 <body>
 <div class="container">
+    <volist name="urlbar" id="bar">
+        <if condition="$bar['url'] eq null"><a href="index.php">主文件夹</if>
+        <a href="index.php?a=index&path={$bar['url']|urlencode}">{$bar['name']|iconv='gb2312','utf-8',###}</a> /
+    </volist>
+    <br>
     <volist name="dirs['file']" id="file">
-        {$file}
+        {$file|iconv='gb2312','utf-8',###}<br/>
     </volist>
     <volist name="dirs['dir']" id="dir">
         <a href="index.php?a=index&path={$dir|getChildPath=$currentpath,###}">{$dir|iconv='gb2312','utf-8',###}<br></a>
