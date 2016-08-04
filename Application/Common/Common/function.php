@@ -139,3 +139,15 @@ function getMode($filepath) {
     );
 }
 
+function readFileContent($filepath) {
+    if (!is_file($filepath)) {
+        return null;
+    }
+    $result = array();
+    $content = fopen($filepath,'r');
+    while(!feof($content)) {
+        $result[] = fgets($content);
+    }
+    return $result;
+}
+

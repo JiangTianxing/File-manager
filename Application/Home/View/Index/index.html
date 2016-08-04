@@ -1,16 +1,47 @@
 <include file="Index/header"/>
 <body>
 <div class="container">
+    <h1>文件管理</h1>
+    <p>当前路径:</p>
     <volist name="urlbar" id="bar">
         <if condition="$bar['url'] eq null"><a href="index.php">主文件夹</if>
-        <a href="index.php?a=index&path={$bar['url']|urlencode}">{$bar['name']|iconv='gb2312','utf-8',###}</a> /
+        <a href="./index.php?a=index&path={$bar['url']|urlencode}">{$bar['name']|iconv='gb2312','utf-8',###}</a>&nbsp;/&nbsp;
     </volist>
     <br>
-    <volist name="dirs['file']" id="file">
-        {$file|iconv='gb2312','utf-8',###}<br/>
-    </volist>
-    <volist name="dirs['dir']" id="dir">
-        <a href="index.php?a=index&path={$dir|getChildPath=$currentpath,###}">{$dir|iconv='gb2312','utf-8',###}<br></a>
-    </volist>
+    <if condition="$dirs['dir'] neq null">
+        文件夹:
+        <ul>
+        <volist name="dirs['dir']" id="dir">
+            <li>
+                <a href="./index.php?a=index&path={$dir|getChildPath=$currentpath,###}">
+                    {$dir|iconv='gb2312','utf-8',###}<br>
+                </a>
+                <a class="delete-button" href="javascript:void(0)" attr-path="{$dir|getChildPath=$currentpath,###}">
+                    <span class="glyphicon glyphicon-remove"></span>
+                </a>
+            </li>
+        </volist>
+        </ul>
+    </if>
+    <if condition="$dirs['file'] neq null">
+        文件:
+        <ul>
+        <volist name="dirs['file']" id="file">
+            <li>
+                <a href="./index.php?a=file&path={$file|getChildPath=$currentpath,###}">
+                    {$file|iconv='gb2312','utf-8',###}<br/>
+                </a>
+                <a class="delete-button" href="javascript:void(0)" attr-path="{$file|getChildPath=$currentpath,###}">
+                    <span class="glyphicon glyphicon-remove"></span>
+                </a>
+            </li>
+        </volist>
+        </ul>
+    </if>
 </div>
+<script>
+    SCOPE = {
+        'delete_url' : './index.php?a=delete',
+    }
+</script>
 <include file="Index/footer" />

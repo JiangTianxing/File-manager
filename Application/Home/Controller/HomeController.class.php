@@ -16,8 +16,8 @@ class HomeController extends Controller {
     public function __construct()
     {
         parent::__construct();
-        $this->path = $_GET['path'] ? urldecode($_GET['path']) : '';
-        $this->filepath = $_GET['path'] ? C('DATA_DIR').$this->path : C('DATA_DIR');
+        $this->path = $_REQUEST['path'] ? urldecode($_REQUEST['path']) : '';
+        $this->filepath = C('DATA_DIR').$this->path;
         $this->type = is_dir($this->filepath) ? 1 : 0;
     }
 }

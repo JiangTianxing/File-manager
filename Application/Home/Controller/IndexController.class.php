@@ -20,18 +20,18 @@ class IndexController extends HomeController {
         $this->display();
     }
 
-//    public function delete() {
-//        if (!$this->type) {
-//            unlink($this->filepath);
-//        }else {
-//            deleteDir($this->filepath);
-//        }
-//        if (file_exists($this->filepath)) {
-//            return show(0,'删除失败');
-//        }
-//        $url = $_SERVER['HTTP_REFERER'];
-//        return show(1,'删除成功',array('url'=>$url));
-//    }
+    public function delete() {
+        if (!$this->type) {
+            unlink($this->filepath);
+        }else {
+            deleteDir($this->filepath);
+        }
+        if (file_exists($this->filepath)) {
+            return show(0,'删除失败');
+        }
+        $url = $_SERVER['HTTP_REFERER'];
+        return show(1,'删除成功',array('url'=>$url));
+    }
 
 //    public function download() {
 //        if (!$this->type) {
